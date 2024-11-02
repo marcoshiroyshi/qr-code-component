@@ -1,0 +1,41 @@
+.main-box {
+  background-color: #D5E1EF;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  height: 500px;
+  width: 320px;
+  border-radius: 10px; 
+  padding: 10px;
+  background-color: white;
+}
+
+.box-header {
+  height: 280px;
+  width: 280px;
+  margin: 5px;
+}
+
+.box-content {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.box-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: "Outfit", sans-serif;
+}
+
+.box-subtitle {
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 1rem;
+  padding: 0 1rem;
+  font-family: "Outfit", sans-serif;
+  color: #68778D;
+}
